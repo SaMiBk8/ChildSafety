@@ -1,0 +1,9 @@
+{
+  "name": "Child Safety & Educational Coordination",
+  "description": "A comprehensive coordination hub for parents, educators, and children featuring real-time tracking, SOS emergency alerts, and educational progress monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
